@@ -1,0 +1,13 @@
+Text Quality Checker. Checks for:
+	* Spellings
+	* Structure and Grammar
+	* Language flow - Coherence (Coming soon :D)
+	* Other linguistic features of the Essay (TBD).
+
+DEPENDENCIES:
+	* Link Parser - http://www.link.cs.cmu.edu/link/
+
+	* Python and Libraries
+	1) Python 3.x
+	2) Pyenchant - http://packages.python.org/pyenchant/api/enchant.html
+	3) Natural Language Toolkit - http://nltk.googlecode.com/files/nltk-2.0.1rc1.tar.gz
